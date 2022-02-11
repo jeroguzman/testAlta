@@ -1,0 +1,6 @@
+Django==4.0.2
+django-cors-headers==3.11.0
+djangorestframework==3.13.1
+mssql-django==1.1.2
+sqlparse==0.4.2
+
